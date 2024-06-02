@@ -1,0 +1,16 @@
+.filtrar{
+    background-color: aqua !important;
+}
+
+.excel{
+    background-color: yellow !important;
+}
+.print{
+    background-color: pink !important;
+}
+.pdf{
+    background-color: green !important;
+}
+.copy{
+    background-color: rgb(158, 15, 15) !important;
+}
